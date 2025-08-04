@@ -1,4 +1,4 @@
-<img src="gitprofile.jpeg" alt="MasterHead" width="900" height="200">
+<img src="gitprofile1.jpeg" alt="MasterHead" width="900" height="200">
 <h1 align="center">Hi 👋, I'm Roshini M</h1>
 <h3 align="center">MERN Full-Stack Developer</h3>
 
